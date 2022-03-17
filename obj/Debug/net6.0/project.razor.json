@@ -16308,8 +16308,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/elizavetaignatovich/MyWebApp/Views/Home/AutoSearch.cshtml",
+      "TargetPath": "Views\\Home\\AutoSearch.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/elizavetaignatovich/MyWebApp/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/elizavetaignatovich/MyWebApp/Views/Home/AutoSearch.cshtml",
+      "TargetPath": "Views\\Home\\AutoSearch.cshtml",
       "FileKind": "mvc"
     },
     {
